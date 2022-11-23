@@ -12,7 +12,7 @@
 </p>
 
 
-- 👨🏽‍💻 I’m currently working on [Big Data](https://bigdata.com.br/) and my personal website/blog.
+- 👨🏽‍💻 I’m currently working on [Demyst](https://demyst.com/) and my personal website/blog.
 - 🌱 I’m currently learning about DataOps and DevOps.
 - :fireworks: I’m looking to create the perfect Data Platform!
 <!-- - 🤔 I’m looking for help with Design Pattern 😭 -->
